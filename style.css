@@ -533,7 +533,7 @@ footer {
 
     .categories__right {
         grid-template-columns: 1fr;
-
+        margin:auto;
         gap: 0.7rem;
 
     }
@@ -552,7 +552,7 @@ footer {
     /* ===================== Popular Courses =============== */
     .courses_contanier {
         grid-template-columns: 1fr;
-        margin:auto;
+        
 
     }
 
